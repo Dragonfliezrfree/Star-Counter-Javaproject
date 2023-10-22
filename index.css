@@ -1,0 +1,62 @@
+body {
+    background-image: url("pexels-philippe-donn-1169754.jpg");
+    background-size: cover;
+    font-family:  Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+    color: aliceblue;
+  
+}
+.container {
+    background-image: linear-gradient(0deg,pink, white );
+    border: 2px solid black;
+    border-radius: 25px;
+    max-width: 75%;
+    margin: 10%;
+    padding: 2.5em;
+    
+    
+
+
+}
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+    text-shadow:2px 2px black;
+     
+    color: gold;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: gold;
+    text-shadow:2px 2px black;
+}
+
+
+
+button {
+    border: 1px 1px black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    
+}
+p {
+    color: black;
+}
+#increment-btn {
+    background: rgb(96, 2, 247);
+}
+
+#save-btn {
+    background: rgb(182, 178, 179);
+}
